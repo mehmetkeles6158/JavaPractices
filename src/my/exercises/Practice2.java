@@ -1,6 +1,6 @@
 package my.exercises;
 
-public class Practice2 {
+ class Practice2 {
     public static void main(String[] args) {
         int [] nums = {21,7,0,14,5,32};
 
@@ -20,5 +20,6 @@ public class Practice2 {
 
 
     }
+
 
 }
