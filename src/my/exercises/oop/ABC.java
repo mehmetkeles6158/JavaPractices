@@ -16,7 +16,7 @@ class Demo extends ABC{
     public void newMethod(){
         System.out.println("new method of child class");
     }
-    public static void main( String args[]) {
+        public static void main( String args[]) {
 
         ABC obj = new ABC();
         obj.disp();
