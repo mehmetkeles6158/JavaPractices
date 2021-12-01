@@ -1,4 +1,4 @@
-package my.exercises;
+package my.exercises.oop;
 
 public class Dog {
     String breed;

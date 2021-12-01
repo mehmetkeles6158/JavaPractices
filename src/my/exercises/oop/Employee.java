@@ -1,4 +1,4 @@
-package my.exercises;
+package my.exercises.oop;
 
 class Employee {
     float salary = 40000;
