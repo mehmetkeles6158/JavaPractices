@@ -26,4 +26,5 @@ public class Practice3 {
         Arrays.sort(wordArr);
         return String.valueOf(wordArr);
     }
+
 }
