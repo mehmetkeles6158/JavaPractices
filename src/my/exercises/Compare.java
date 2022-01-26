@@ -15,6 +15,9 @@ public class Compare {
         // compare first and third strings
         boolean result2 = first.equals(third);
         System.out.println("Strings first and third are equal: " + result2);
+
+        String example = "This is the \"String\" class.";
+        System.out.println(example);
     }
 
 }
